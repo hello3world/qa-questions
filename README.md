@@ -12,18 +12,40 @@
 
 📂 Темы вопросов
 🐞 Bug Tracking
+
 🌐 Environments
+
 📊 Metrics
+
 🧩 Logic
+
 🧪 Test Design
+
 🔧 Tools
+
 📱 Mobile
+
 ⚡ Performance
+
 📚 Theory
+
 🛢 SQL
+
+🔌 API Testing
+
+🔐 Security
+
+🌍 Web Testing
+
+🎨 UX/UI Testing
+
+💬 Soft Skills
 
 ⚡ Хотите внести вклад?
 Сделайте форк
+
 Добавьте свои вопросы в соответствующий файл или создайте новый
+
 Оформите Pull Request
+
 Profit! ✨
